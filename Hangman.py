@@ -1,3 +1,7 @@
+"""
+Hangman Project v1.0
+Author : Sagar Kargathra
+"""
 try:
     # Python 2
     _input = raw_input
